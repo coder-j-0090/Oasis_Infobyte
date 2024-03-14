@@ -1,2 +1,2 @@
 # Oasis_Inforbyte
-Oasis_Infobyte_Internshipt
+Oasis_Infobyte_Internship projects
